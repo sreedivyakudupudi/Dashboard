@@ -26,20 +26,6 @@ Backend: Node.js + Express.js
 Database: MongoDB with Mongoose ODM
 Authentication: JWT-based token system
 
-Installation & Setup
-1. Clone the Repository
-git clone https://github.com/SreeKarthika123/creator_dashboard1.git
-cd creator-dashboard
-2.Backend Setup
-cd backend
-npm install
-Start Backend Server
-node server.js
-Frontend Setup
-cd ../frontend
-npm install
-npm start
-
 Screenshots of App:
 ![image](https://github.com/user-attachments/assets/b1789be0-7a98-45b4-8568-5d54d6559323)
 ![image](https://github.com/user-attachments/assets/146ea152-2f06-45e8-bf6b-5171c6137337)
